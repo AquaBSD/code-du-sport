@@ -1,0 +1,8 @@
+site_name: Manuel de Formation Technique
+pages:
+- Home: index.md
+- 'Sous-section 1': Sous-section_1.md
+- 'Sous-section 2': Sous-section_2.md
+- 'Sous-section 3': Sous-section_3.md
+- 'Sous-section 4': Sous-section_4.md
+theme: readthedocs
