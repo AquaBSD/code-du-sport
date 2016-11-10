@@ -1,6 +1,6 @@
 site_name: Code du sport
 pages:
-- 'Code du sport':  index.md
+- 'Section 3':      index.md
 - 'Sous-section 1': Sous-section_1.md
 - 'Sous-section 2': Sous-section_2.md
 - 'Sous-section 3': Sous-section_3.md
